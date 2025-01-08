@@ -3,10 +3,12 @@ nota2=7
 nota3=6
 
 media=(nota1+nota2+nota3)/3
+
 if media>=7:
     print("Aprovado")
 elif media>=3 and media<7:
     print("Recuperação")
 else:
     print("Reprovado")
+
 print("Boa sorte")
