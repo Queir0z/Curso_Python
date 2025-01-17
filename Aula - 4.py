@@ -40,5 +40,3 @@ print(programadores) # ['Victor', 'Juliana', 'Samuel', 'Caio', 'Luana']
 programadores.pop(0)
 print(programadores) # ['Juliana', 'Samuel', 'Caio', 'Luana']
 
-#### Parei em iniciar em Tuplas ####
-
