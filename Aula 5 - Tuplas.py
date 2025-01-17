@@ -21,4 +21,6 @@ print(vogais[1]) # e
 
 vogais = ('a', 'e', 'i', 'o', 'u')
 # Tuplas não podem ser alteadas (São Imutáveis)
-vogais[1] = 'E'
+#vogais[1] = 'E'
+
+
